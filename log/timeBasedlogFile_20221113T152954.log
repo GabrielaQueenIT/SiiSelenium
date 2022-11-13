@@ -1,0 +1,6 @@
+7086 [main] INFO  Factory.DriverFactory - Browser = firefox
+7105 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+7112 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+14021 [main] INFO  Factory.DriverFactory - Browser = firefox
+14029 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+14034 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe

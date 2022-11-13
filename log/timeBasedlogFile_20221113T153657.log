@@ -1,0 +1,4 @@
+3903 [main] INFO  Base.BaseTest - WebDriver started successfully
+3917 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+5228 [main] INFO  SiiShop.SiiShopTest - Actual title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+5433 [main] INFO  Base.BaseTest - Driver has been closed properly

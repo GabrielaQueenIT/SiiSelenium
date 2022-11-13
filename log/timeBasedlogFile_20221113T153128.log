@@ -1,0 +1,7 @@
+345 [main] INFO  Factory.DriverFactory - Browser = firefox
+732 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+749 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+3218 [main] INFO  Base.BaseTest - WebDriver started successfully
+3220 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+3695 [main] INFO  SiiShop.SiiShopTest - Actual title is: TesterSii
+4971 [main] INFO  Base.BaseTest - Driver has been closed properly

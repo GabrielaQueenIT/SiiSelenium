@@ -1,11 +1,12 @@
 package SiiShop;
 
+import Base.BaseTest;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class SiiShopLoginTest {
+public class SiiShopLoginTest extends BaseTest {
 
     private WebDriver driver;
 

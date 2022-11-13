@@ -1,0 +1,12 @@
+219 [main] INFO  Factory.DriverFactory - Browser = firefox
+996 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+1017 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+1653 [main] INFO  i.g.b.wdm.online.Downloader - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+2141 [main] INFO  i.g.b.wdm.online.Downloader - Extracting driver from compressed file geckodriver-v0.32.0-win64.zip
+2170 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+9279 [main] INFO  Factory.DriverFactory - Browser = firefox
+9320 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+9327 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+15177 [main] INFO  Factory.DriverFactory - Browser = firefox
+15184 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+15189 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\gabad\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
