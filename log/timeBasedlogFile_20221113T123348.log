@@ -1,0 +1,9 @@
+358 [main] INFO  SiiShop.SiiShopTest - Start data base
+767 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+788 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\gabad\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2918 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+2918 [main] INFO  SiiShop.SiiShopTest - Przeglądarka: chrome
+4219 [main] INFO  SiiShop.SiiShopTest - Actual title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+5407 [main] INFO  SiiShop.SiiShopTest - Driver has been closed properly
+5408 [main] INFO  SiiShop.SiiShopTest - ****************TEST PASS :) 
+5418 [main] INFO  SiiShop.SiiShopTest - Data base connection close

@@ -1,0 +1,22 @@
+239 [main] INFO  SiiShop.SiiShopTest - Start data base
+718 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+741 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\gabad\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2287 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://pudelek.pl
+2288 [main] INFO  SiiShop.SiiShopTest - Przeglądarka: chrome
+4614 [main] INFO  SiiShop.SiiShopTest - Driver has been closed properly
+4617 [main] INFO  SiiShop.SiiShopTest - ****************TEST PASS :) 
+4638 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+4642 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\gabad\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+5275 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+5275 [main] INFO  SiiShop.SiiShopTest - Przeglądarka: chrome
+6152 [main] INFO  SiiShop.SiiShopTest - Actual title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+7285 [main] INFO  SiiShop.SiiShopTest - Driver has been closed properly
+7286 [main] INFO  SiiShop.SiiShopTest - ****************TEST PASS :) 
+7297 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+7303 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\gabad\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+7921 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+7921 [main] INFO  SiiShop.SiiShopTest - Przeglądarka: chrome
+8370 [main] INFO  SiiShop.SiiShopTest - Actual title is: TesterSii
+8545 [main] INFO  SiiShop.SiiShopTest - Driver has been closed properly
+8545 [main] INFO  SiiShop.SiiShopTest - ****************TEST PASS :) 
+8547 [main] INFO  SiiShop.SiiShopTest - Data base connection close

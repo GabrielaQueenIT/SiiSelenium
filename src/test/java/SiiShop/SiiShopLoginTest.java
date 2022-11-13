@@ -15,7 +15,7 @@ public class SiiShopLoginTest {
 
         // 0. Konfiguracja Webdrivera -> spore wyzwanie//TO JEST KONIECZNOSC
         String browser = "chrome";
-        driver= new FirefoxDriver();
+        driver= new ChromeDriver();
 
         // page object model
         //DO TEGO DĄŻYMY:
