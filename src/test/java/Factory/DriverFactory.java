@@ -24,7 +24,9 @@ public class DriverFactory {
                 ChromeOptions optionsChrome = new ChromeOptions();
                 optionsChrome.addArguments("start-maximized"); //otwieramy okno maksymalizowane
                 optionsChrome.addArguments("incognito"); //otwieramy w trybie incognito, zyskujemy ok 7% czasu bo nie ma cookies
-//        optionsChrome.addArguments("headless"); // nie widzimy graficznych okien przegladarki ale wszsytko sie robi
+//        if (headless == true){
+//                optionsChrome.addArguments("headless"); // nie widzimy graficznych okien przegladarki ale wszsytko sie robi
+//        }
                 optionsChrome.addArguments("--ignore-certificate-errors"); //certyfikaty http są ignorowane
                 optionsChrome.setExperimentalOption("excludeSwitches", Arrays.asList("disable-popup-blocking", "enable-automation"));//usuwa info bar
 //        driver.manage().window().maximize();

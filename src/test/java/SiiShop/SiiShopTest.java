@@ -1,6 +1,7 @@
 package SiiShop;
 
 import Base.BaseTest;
+import Pages.HomePage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.*;
@@ -50,4 +51,19 @@ public class SiiShopTest extends BaseTest {
         String title = driver.getTitle();
         log.info("Actual title is: " + title);
     }
+
+
+//    @Test
+//    public void loanTest(){
+//        HomePage homePage = new HomePage();
+//        homePage.loginAsRegisteredUser();
+//        homePage.navigateToLoanForm();
+//        homePage.fillFirstName();
+//        homePage.fillLastName();
+//        homePage.fillLoanForm();
+//        homePage.submitLoanForm();
+//
+//        String message = homePage.takeConfirmationMessage();
+//        assertThat(message).isEqualTo(expectedMessage);
+//    }
 }
